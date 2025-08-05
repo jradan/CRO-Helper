@@ -1,0 +1,32 @@
+name: Generate CRO Knowledge File
+
+on:
+  push:
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run script to generate cro-knowledge.md
+        run: python build_cro_knowledge.py
+
+      - name: Commit and push cro-knowledge.md
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add cro-knowledge.md
+          git commit -m 'Update cro-knowledge.md from test and brief files' || echo "No changes to commit"
+          git push
+
