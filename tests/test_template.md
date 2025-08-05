@@ -54,4 +54,4 @@ If we [describe the change], then [expected result], because [reason].
 ---
 
 ## 📎 Attachments
-[List of links, screenshots, or data exports]
+[List of links, screenshots, or data export]
