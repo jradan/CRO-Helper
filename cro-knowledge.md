@@ -113,6 +113,67 @@ Reduce plan compare clicks, increase clarity engagement
 - VWO Test ID: TBD
 
 
+--- FILE: 2025-08-28-domain-order-form-update-v2.md ---
+
+# 🧪 Experiment Title
+Domain Order Form Update v2
+
+## 🎯 Hypothesis & Goals
+
+**Hypothesis**
+If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
+
+**Primary Goal**
+Increase domain order conversions
+
+**Secondary Goal**
+Reduce form abandonment, increase order completion clarity
+
+---
+
+## 📍 Context
+
+- **Page**: Domain Order Form
+- **Device**: All devices
+- **Traffic Volume**: High
+- **User Insight / Pain Point**: Users hesitate or abandon the domain order form due to dense, undifferentiated layout
+
+---
+
+## 🛠️ Test Variations
+
+- **Control**: Current domain order form
+- **Variant A**: Updated domain order form with improved visual hierarchy
+- **Variant B**: Simplified form with enhanced user guidance
+
+---
+
+## 🧠 AI Scorecard (Pre-Test Evaluation)
+
+| Criteria               | Score (1–5) | Rationale |
+|------------------------|-------------|-----------|
+| Impact                 | 5           | High-traffic, high-stakes decision point |
+| Confidence             | 3           | Supported by UX principles but lacks direct test precedent |
+| Effort                 | 2           | Design + responsive layout work |
+| Clarity & User Trust   | 5           | Enhances decision clarity with no manipulation |
+| **Total**              | **15**      |           |
+
+---
+
+## 📈 Test Results
+(To be filled post-test)
+
+---
+
+## 🧾 Reflection & Insights
+(To be filled post-test)
+
+---
+
+## 📎 Attachments
+- Screenshot of current page
+- VWO Test ID: TBD
+
 --- FILE: test_template.md ---
 
 # 🧪 Experiment Title
@@ -217,6 +278,45 @@ VWO, GA, Hotjar
 - Screenshot of current
 - Markdown test log
 
+
+--- FILE: 2025-08-28-domain-order-form-update-v2-brief.md ---
+
+# 📘 CRO Test Brief: Domain Order Form Update v2
+
+## ✅ Summary
+We propose testing an updated domain order form layout to improve domain selection clarity and increase conversions. The current layout overwhelms users and lacks visual hierarchy.
+
+## 🎯 Hypothesis
+If we redesign the domain order form layout to better differentiate options visually, then users will more easily choose the right domain, because the current structure lacks hierarchy and overwhelms users.
+
+## 🧪 Variants
+- **Control**: Flat 4-column layout, dense feature bullets
+- **Variant A**: Ladder-style visual hierarchy with color emphasis
+- **Variant B**: Simplified bullets + "Best for…" persona tags
+
+## 🧠 Pre-Test Scoring
+
+| Criteria               | Score (1–5) | Rationale |
+|------------------------|-------------|-----------|
+| Impact                 | 5           | High-traffic, high-stakes decision point |
+| Confidence             | 3           | Supported by UX principles but lacks direct test precedent |
+| Effort                 | 2           | Design + responsive layout work |
+| Clarity & User Trust   | 5           | Enhances decision clarity with no manipulation |
+| **Total**              | 15          |           |
+
+## 🎯 Goals
+- **Primary Goal**: Increase domain order conversions
+- **Secondary Goal**: Reduce form abandonment, increase order completion clarity
+
+## ⏱️ Duration
+Est. 14–21 days
+
+## 🧰 Tools
+VWO, GA, Hotjar
+
+## 📎 Attachments
+- Screenshot of current page
+- VWO Test ID: TBD
 
 --- FILE: test_brief_template.md ---
 

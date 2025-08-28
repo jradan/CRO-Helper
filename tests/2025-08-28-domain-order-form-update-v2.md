@@ -4,30 +4,29 @@ Domain Order Form Update v2
 ## 🎯 Hypothesis & Goals
 
 **Hypothesis**
-If we redesign the pricing plan layout to better differentiate plans visually, then users will more easily choose the right plan, because the current structure lacks hierarchy and overwhelms users.
+If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
 
 **Primary Goal**
-Increase mid-tier or paid plan selection
+Increase domain order conversions
 
 **Secondary Goal**
-Reduce plan compare clicks, increase clarity engagement
+Reduce form abandonment, increase order completion clarity
 
 ---
 
 ## 📍 Context
 
-- **Page**: WordPress Hosting Pricing Page
-- **Device**: Desktop
+- **Page**: Domain Order Form
+- **Device**: All devices
 - **Traffic Volume**: High
-- **User Insight / Pain Point**: Users hesitate or bounce at pricing due to dense, undifferentiated layout
+- **User Insight / Pain Point**: Users hesitate or abandon the domain order form due to dense, undifferentiated layout
 
 ---
 
 ## 🛠️ Test Variations
 
-- **Control**: Flat 4-column layout, dense feature bullets
-- **Variant A**: Ladder-style visual hierarchy with color emphasis
-- **Variant B**: Simplified bullets + "Best for…" persona tags
+- **Control**: Current domain order form
+- **Variant A**: Updated domain order form with improved flow and visual hierarchy
 
 ---
 
@@ -55,4 +54,4 @@ Reduce plan compare clicks, increase clarity engagement
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: TBD
+- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990

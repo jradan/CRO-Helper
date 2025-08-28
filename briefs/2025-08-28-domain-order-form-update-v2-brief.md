@@ -4,12 +4,11 @@
 We propose testing an updated domain order form layout to improve domain selection clarity and increase conversions. The current layout overwhelms users and lacks visual hierarchy.
 
 ## 🎯 Hypothesis
-If we redesign the domain order form layout to better differentiate options visually, then users will more easily choose the right domain, because the current structure lacks hierarchy and overwhelms users.
+If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
 
 ## 🧪 Variants
-- **Control**: Flat 4-column layout, dense feature bullets
-- **Variant A**: Ladder-style visual hierarchy with color emphasis
-- **Variant B**: Simplified bullets + "Best for…" persona tags
+- **Control**: Current domain order form
+- **Variant A**: Updated domain order form with improved flow and visual hierarchy
 
 ## 🧠 Pre-Test Scoring
 
@@ -33,4 +32,4 @@ VWO, GA, Hotjar
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: TBD
+- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990
