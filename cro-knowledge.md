@@ -51,6 +51,73 @@ Sum of all four dimensions (Max = 20).
 
 
 
+--- FILE: 2025-01-09-shared-hosting-price-ladder.md ---
+
+# 🧪 Experiment Title
+Shared Hosting Price Ladder with HP595 Coupon
+
+## 🎯 Hypothesis & Goals
+
+**Hypothesis**
+If we create a clear price ladder effect on the Shared Hosting product page using the HP595 coupon to reduce the Growth plan price, then users will more easily see value differentiation between plans and increase conversions, because clear pricing hierarchy helps customers choose the right plan.
+
+**Primary Goal**
+Signup
+
+**Secondary Goal**
+Revenue
+
+**Other Secondary Goals**
+- Signup: Essentials
+- Signup: Growth  
+- Signup: Premium
+- Signup: Elite
+
+---
+
+## 📍 Context
+
+- **Page**: Shared Hosting Product Page
+- **Device**: Mobile and Desktop
+- **Traffic Volume**: High
+- **User Insight / Pain Point**: Users struggle with value differentiation between hosting plans without clear price progression
+
+---
+
+## 🛠️ Test Variations
+
+- **Control**: Current Shared Hosting pricing display
+- **Variant A**: Price ladder with HP595 coupon applied to Growth plan for clear value progression
+
+---
+
+## 🧠 AI Scorecard (Pre-Test Evaluation)
+
+| Criteria               | Score (1–5) | Rationale |
+|------------------------|-------------|-----------|
+| Impact                 | 4           | High-traffic product page, core monetization point |
+| Confidence             | 4           | Price ladder psychology well-documented in conversion optimization |
+| Effort                 | 4           | Requires coupon system integration and pricing display updates |
+| Clarity & User Trust   | 5           | Improves pricing transparency and decision clarity |
+| **Total**              | **17**      |           |
+
+---
+
+## 📈 Test Results
+(To be filled post-test)
+
+---
+
+## 🧾 Reflection & Insights
+(To be filled post-test)
+
+---
+
+## 📎 Attachments
+- Screenshots of current pricing display
+- HP595 coupon configuration details
+- VWO Test ID: TBD
+
 --- FILE: 2025-08-01-plan-layout-redesign.md ---
 
 # 🧪 Experiment Title
@@ -143,8 +210,7 @@ Reduce form abandonment, increase order completion clarity
 ## 🛠️ Test Variations
 
 - **Control**: Current domain order form
-- **Variant A**: Updated domain order form with improved visual hierarchy
-- **Variant B**: Simplified form with enhanced user guidance
+- **Variant A**: Updated domain order form with improved flow and visual hierarchy
 
 ---
 
@@ -172,7 +238,7 @@ Reduce form abandonment, increase order completion clarity
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: TBD
+- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990
 
 --- FILE: test_template.md ---
 
@@ -239,6 +305,46 @@ If we [describe the change], then [expected result], because [reason].
 
 
 
+--- FILE: 2025-01-09-shared-hosting-price-ladder-brief.md ---
+
+# 📘 CRO Test Brief: Shared Hosting Price Ladder
+
+## ✅ Summary
+We propose testing a price ladder implementation on the Shared Hosting product page using HP595 coupon to create clear value differentiation across plans and improve conversion rates.
+
+## 🎯 Hypothesis
+If we create a clear price ladder effect using the HP595 coupon to reduce the Growth plan price, then users will more easily see value differentiation between plans and increase conversions, because clear pricing hierarchy helps customers choose the right plan.
+
+## 🧪 Variants
+- **Control**: Current Shared Hosting pricing display
+- **Variant A**: Price ladder with HP595 coupon applied to Growth plan for clear value progression
+
+## 🧠 Pre-Test Scoring
+
+| Criteria               | Score (1–5) | Rationale |
+|------------------------|-------------|-----------|
+| Impact                 | 4           | High-traffic product page, core monetization point |
+| Confidence             | 4           | Price ladder psychology well-documented in conversion optimization |
+| Effort                 | 4           | Requires coupon system integration and pricing display updates |
+| Clarity & User Trust   | 5           | Improves pricing transparency and decision clarity |
+| **Total**              | 17          |           |
+
+## 🎯 Goals
+- **Primary Goal**: Signup
+- **Secondary Goal**: Revenue
+- **Other Secondary Goals**: Signup: Essentials, Signup: Growth, Signup: Premium, Signup: Elite
+
+## ⏱️ Duration
+Est. 14–21 days
+
+## 🧰 Tools
+VWO, GA, Hotjar
+
+## 📎 Attachments
+- Screenshots of current pricing display
+- HP595 coupon configuration details
+- VWO Test ID: TBD
+
 --- FILE: 2025-08-01-plan-layout-redesign-brief.md ---
 
 # 📘 CRO Test Brief: Plan Layout Redesign
@@ -287,12 +393,11 @@ VWO, GA, Hotjar
 We propose testing an updated domain order form layout to improve domain selection clarity and increase conversions. The current layout overwhelms users and lacks visual hierarchy.
 
 ## 🎯 Hypothesis
-If we redesign the domain order form layout to better differentiate options visually, then users will more easily choose the right domain, because the current structure lacks hierarchy and overwhelms users.
+If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
 
 ## 🧪 Variants
-- **Control**: Flat 4-column layout, dense feature bullets
-- **Variant A**: Ladder-style visual hierarchy with color emphasis
-- **Variant B**: Simplified bullets + "Best for…" persona tags
+- **Control**: Current domain order form
+- **Variant A**: Updated domain order form with improved flow and visual hierarchy
 
 ## 🧠 Pre-Test Scoring
 
@@ -316,7 +421,7 @@ VWO, GA, Hotjar
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: TBD
+- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990
 
 --- FILE: test_brief_template.md ---
 
