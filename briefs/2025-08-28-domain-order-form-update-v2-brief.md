@@ -1,14 +1,14 @@
-# 📘 CRO Test Brief: Domain Order Form Update v2
+# 📘 CRO Test Brief: Domain Order Form Update v3
 
 ## ✅ Summary
-We propose testing an updated domain order form layout to improve domain selection clarity and increase conversions. The current layout overwhelms users and lacks visual hierarchy.
+We are testing a refined domain order form layout incorporating learnings from v1 to improve domain selection clarity and increase conversions. Test is live in CA, COM, and AU markets with 100% traffic coverage.
 
 ## 🎯 Hypothesis
-If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
+If we implement the refined domain order form layout incorporating learnings from v1 testing, then users will more easily complete their domain orders, because the optimized visual hierarchy and flow improvements address the key usability issues identified in the previous variant.
 
 ## 🧪 Variants
 - **Control**: Current domain order form
-- **Variant A**: Updated domain order form with improved flow and visual hierarchy
+- **Variant A**: Refined domain order form with optimized flow and visual hierarchy based on v1 learnings
 
 ## 🧠 Pre-Test Scoring
 
@@ -25,11 +25,15 @@ If we redesign the domain order form layout to better differentiate options visu
 - **Secondary Goal**: Reduce form abandonment, increase order completion clarity
 
 ## ⏱️ Duration
-Est. 14–21 days
+Est. 14–21 days (Started: 2025-01-15)
+
+## 🌍 Markets & Coverage
+- **Markets**: CA, COM, AU
+- **Traffic**: 100% (Mobile and Desktop)
 
 ## 🧰 Tools
 VWO, GA, Hotjar
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990
+- VWO Test ID: https://app.vwo.com/#/test/ab/339/report?accountId=11990

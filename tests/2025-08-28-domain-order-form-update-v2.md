@@ -1,10 +1,10 @@
 # 🧪 Experiment Title
-Domain Order Form Update v2
+Domain Order Form Update v3
 
 ## 🎯 Hypothesis & Goals
 
 **Hypothesis**
-If we redesign the domain order form layout to better differentiate options visually, then users will more easily complete their domain orders, because the current structure lacks hierarchy and overwhelms users.
+If we implement the refined domain order form layout incorporating learnings from v1 testing, then users will more easily complete their domain orders, because the optimized visual hierarchy and flow improvements address the key usability issues identified in the previous variant.
 
 **Primary Goal**
 Increase domain order conversions
@@ -17,8 +17,10 @@ Reduce form abandonment, increase order completion clarity
 ## 📍 Context
 
 - **Page**: Domain Order Form
-- **Device**: All devices
+- **Device**: Mobile and Desktop (100% traffic)
+- **Markets**: CA, COM, AU
 - **Traffic Volume**: High
+- **Test Status**: Live (started 2025-01-15)
 - **User Insight / Pain Point**: Users hesitate or abandon the domain order form due to dense, undifferentiated layout
 
 ---
@@ -26,7 +28,7 @@ Reduce form abandonment, increase order completion clarity
 ## 🛠️ Test Variations
 
 - **Control**: Current domain order form
-- **Variant A**: Updated domain order form with improved flow and visual hierarchy
+- **Variant A**: Refined domain order form with optimized flow and visual hierarchy based on v1 learnings
 
 ---
 
@@ -54,4 +56,4 @@ Reduce form abandonment, increase order completion clarity
 
 ## 📎 Attachments
 - Screenshot of current page
-- VWO Test ID: https://app.vwo.com/#/test/ab/337/report?accountId=11990
+- VWO Test ID: https://app.vwo.com/#/test/ab/339/report?accountId=11990
