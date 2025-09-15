@@ -21,11 +21,11 @@ If we implement the refined domain order form layout incorporating learnings fro
 | **Total**              | 15          |           |
 
 ## 🎯 Goals
-- **Primary Goal**: Increase domain order conversions
-- **Secondary Goal**: Reduce form abandonment, increase order completion clarity
+- **Primary Goal**: Registrations
+- **Secondary Goal**: Revenue
 
 ## ⏱️ Duration
-Est. 14–21 days (Started: 2025-01-15)
+Est. 14–21 days (Started: 2025-09-15)
 
 ## 🌍 Markets & Coverage
 - **Markets**: CA, COM, AU

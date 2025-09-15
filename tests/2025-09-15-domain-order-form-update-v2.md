@@ -7,10 +7,10 @@ Domain Order Form Update v3
 If we implement the refined domain order form layout incorporating learnings from v1 testing, then users will more easily complete their domain orders, because the optimized visual hierarchy and flow improvements address the key usability issues identified in the previous variant.
 
 **Primary Goal**
-Increase domain order conversions
+Registrations
 
 **Secondary Goal**
-Reduce form abandonment, increase order completion clarity
+Revenue
 
 ---
 
@@ -20,7 +20,7 @@ Reduce form abandonment, increase order completion clarity
 - **Device**: Mobile and Desktop (100% traffic)
 - **Markets**: CA, COM, AU
 - **Traffic Volume**: High
-- **Test Status**: Live (started 2025-01-15)
+- **Test Status**: Live (started 2025-09-15)
 - **User Insight / Pain Point**: Users hesitate or abandon the domain order form due to dense, undifferentiated layout
 
 ---
